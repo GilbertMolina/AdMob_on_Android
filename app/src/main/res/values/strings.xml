@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">AdMob de Prueba</string>
+
+    <string name="hola_mundo">Prueba con AdMob \n\nPor: Gilberth Molina</string>
+    <string name="action_settings">Opciones</string>
+
+    <string name="banner_ad_unit_id">ca-app-pub-7637818028268942/9126410916</string>
+
+</resources>
